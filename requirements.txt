@@ -1,0 +1,5 @@
+easyocr
+spacy
+re
+pandas
+quantulum3
